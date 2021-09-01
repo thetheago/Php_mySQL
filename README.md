@@ -1,5 +1,5 @@
 # Php_mySQL
-O básico de interação com o banco de dados utilizando PHP
+O básico de interação com o banco de dados utilizando PHP <br>
 ###INSER4:
 Pagina de cadastro.
 ###pesquisar3:
