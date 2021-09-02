@@ -1,4 +1,3 @@
-# Php_mySQL
 <h2>O básico de interação com o banco de dados utilizando PHP</h2>
 INSER4T: Pagina de cadastro. <br><br>
 pesquisar3: Pegar o nome e o email de alguém gestriado no banco pelo seu id.<br><br>
